@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProtesisOrtesis_sw_v1", "http://localhost:1697", "{F8F2602B-7220-488A-B7E5-4217165BAC9A}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{c1390039-f99a-4e6d-b242-2a7370fc7d56}|BC_ControlPaciente.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1697"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ProtesisOrtesis_sw_v1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1697\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1697"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ProtesisOrtesis_sw_v1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1697\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\WebSites\ProtesisOrtesis_sw_v1\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BC_ControlPaciente", "..\ProtesisOrtesis_sw_v1\BC_ControlPaciente\BC_ControlPaciente.csproj", "{C1390039-F99A-4E6D-B242-2A7370FC7D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F2602B-7220-488A-B7E5-4217165BAC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F2602B-7220-488A-B7E5-4217165BAC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F2602B-7220-488A-B7E5-4217165BAC9A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F2602B-7220-488A-B7E5-4217165BAC9A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C1390039-F99A-4E6D-B242-2A7370FC7D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1390039-F99A-4E6D-B242-2A7370FC7D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1390039-F99A-4E6D-B242-2A7370FC7D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1390039-F99A-4E6D-B242-2A7370FC7D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

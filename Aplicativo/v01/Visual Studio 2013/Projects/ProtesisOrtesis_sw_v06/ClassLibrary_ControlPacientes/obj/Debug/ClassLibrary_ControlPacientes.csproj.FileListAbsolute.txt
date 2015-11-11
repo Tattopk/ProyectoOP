@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProtesisOrtesis_sw_v06\ClassLibrary_ControlPacientes\bin\Debug\ClassLibrary_ControlPacientes.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProtesisOrtesis_sw_v06\ClassLibrary_ControlPacientes\bin\Debug\ClassLibrary_ControlPacientes.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProtesisOrtesis_sw_v06\ClassLibrary_ControlPacientes\bin\Debug\ClassLibrary_ControlPacientes.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProtesisOrtesis_sw_v06\ClassLibrary_ControlPacientes\obj\Debug\ClassLibrary_ControlPacientes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProtesisOrtesis_sw_v06\ClassLibrary_ControlPacientes\obj\Debug\ClassLibrary_ControlPacientes.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProtesisOrtesis_sw_v06\ClassLibrary_ControlPacientes\obj\Debug\ClassLibrary_ControlPacientes.pdb
